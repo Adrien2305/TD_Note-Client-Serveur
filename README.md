@@ -1,3 +1,4 @@
+
 ## --------------------------------------------------------------------------------------
 ## Installation of python3 libraries
 ```sh
@@ -20,6 +21,5 @@ sudo pip3 install pillow
 the server script first.
 - We need to download images img.png / img1.png/ img2.png... in server
 - When we have established the communucation between the two entity , the script will display:
-- 1 - if the total amount of images is even - `it will display 'pair'`
-- 2 - if the total amount of images downloaded is odd - `it will display 'impair'`
-```
+- 1 - if the total pixel of the images downloaded is even - `it will display 'pair'`
+- 2 - if the total pixel of the images downloaded is odd - `it will display 'impair'`
