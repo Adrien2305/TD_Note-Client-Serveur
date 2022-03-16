@@ -17,9 +17,9 @@ sudo pip3 install pillow
 | Client | ``` python3 clientSimple.py ``` |
 
 ## Server/Client Explanation
-- Before establishing communication between the server and client, we need to execute
-the server script first.
-- We need to download images img.png / img1.png/ img2.png... in server
-- When we have established the communucation between the two entity , the script will display:
-- 1 - if the total pixel of the images downloaded is even - `it will display 'pair'`
-- 2 - if the total pixel of the images downloaded is odd - `it will display 'impair'`
+- Before establishing the communication between the server and client, we need to execute
+the server script first then afterward the client side.
+- We need to download an image name: `img.png ` on the server side.
+- When we have established the communucation between the two entity , the script will import and display:
+- 1 - if the total pixel of the image downloaded is even - `it will display 'pair'`
+2 - if the total pixel of the image downloaded is odd - `it will display 'impair'`
