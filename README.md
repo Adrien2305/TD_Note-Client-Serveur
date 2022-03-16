@@ -1,4 +1,3 @@
-
 ## --------------------------------------------------------------------------------------
 ## Installation of python3 libraries
 ```sh
@@ -22,4 +21,4 @@ the server script first then afterward the client side.
 - We need to download an image name: `img.png ` on the server side.
 - When we have established the communucation between the two entity , the script will import and display:
 - 1 - if the total pixel of the image downloaded is even - `it will display 'pair'`
-2 - if the total pixel of the image downloaded is odd - `it will display 'impair'`
+- 2 - if the total pixel of the image downloaded is odd - `it will display 'impair'`
