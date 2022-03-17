@@ -1,5 +1,5 @@
 ## TD_Client/Server By Adrien Esther
-This project work is to create a client Server application and set up a communication protocol (UDP) between the two entities. On the server we will have the images example ```img.jpeg``` then the client will ask the server to retrieve the image.
+This project work is to create a client Server application and set up a communication protocol between the two entities. On the server we will have the images example ```img.jpeg``` then the client will ask the server to retrieve the image.
 ## --------------------------------------------------------------------------------------
 ## Installation of python3 libraries
 ```sh
@@ -8,7 +8,7 @@ sudo apt install python3-pip
 sudo pip3 install pillow
 ```
 ## Communication protocole used 
-- TCP
+- ```TCP```
 Transmission Control Protocol (TCP) is a standard that defines how to establish and maintain a network conversation by which applications can exchange data. 
 TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.
 ## How to establish the communication 
